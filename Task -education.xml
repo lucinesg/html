@@ -1,0 +1,23 @@
+<?xml version ="1.0" encoding="iso-8859-1"?>
+<Educationplan>
+    <course name= "Finance">
+        <teacher> Lars Petterson </teacher>
+        <schedule> every day</schedule>
+        <students> 75 </students>
+        <literature> Finance book </literature>
+        <exam> task </exam>
+    </course>
+    <course name= "Accounting">
+        <teacher> Åke Petterson </teacher>
+        <schedule> every day</schedule>
+        <students> 48 </students>
+        <literature> Accounting book </literature>
+        <exam> examination </exam>
+    </course>
+    </Educationplan>
+
+<asa>sdjak</asa>
+
+<aa>
+
+
